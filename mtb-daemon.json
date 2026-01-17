@@ -12,9 +12,9 @@
                     0,
                     0,
                     0,
-                    0,
-                    0,
-                    0,
+                    0.3,
+                    0.3,
+                    0.3,
                     0,
                     0,
                     0,
@@ -23,15 +23,15 @@
                 ],
                 "outputsSafe": [
                     {
-                        "type": "plain",
+                        "type": "s-com",
                         "value": 0
                     },
                     {
-                        "type": "plain",
+                        "type": "s-com",
                         "value": 0
                     },
                     {
-                        "type": "plain",
+                        "type": "s-com",
                         "value": 0
                     },
                     {
@@ -173,14 +173,14 @@
         "002": {
             "config": {
                 "inputsDelay": [
-                    0,
-                    0,
-                    0,
-                    0,
-                    0,
-                    0,
-                    0,
-                    0,
+                    0.3,
+                    0.3,
+                    0.3,
+                    0.3,
+                    0.3,
+                    0.3,
+                    0.3,
+                    0.3,
                     0,
                     0,
                     0,
@@ -192,35 +192,35 @@
                 ],
                 "outputsSafe": [
                     {
-                        "type": "plain",
+                        "type": "s-com",
                         "value": 0
                     },
                     {
-                        "type": "plain",
+                        "type": "s-com",
                         "value": 0
                     },
                     {
-                        "type": "plain",
+                        "type": "s-com",
                         "value": 0
                     },
                     {
-                        "type": "plain",
+                        "type": "s-com",
                         "value": 0
                     },
                     {
-                        "type": "plain",
+                        "type": "s-com",
                         "value": 0
                     },
                     {
-                        "type": "plain",
+                        "type": "s-com",
                         "value": 0
                     },
                     {
-                        "type": "plain",
+                        "type": "s-com",
                         "value": 0
                     },
                     {
-                        "type": "plain",
+                        "type": "s-com",
                         "value": 0
                     },
                     {
@@ -342,14 +342,14 @@
         "003": {
             "config": {
                 "inputsDelay": [
-                    0,
-                    0,
-                    0,
-                    0,
-                    0,
-                    0,
-                    0,
-                    0,
+                    0.3,
+                    0.3,
+                    0.3,
+                    0.3,
+                    0.3,
+                    0.3,
+                    0.3,
+                    0.3,
                     0,
                     0,
                     0,
@@ -511,14 +511,14 @@
         "004": {
             "config": {
                 "inputsDelay": [
-                    0,
-                    0,
-                    0,
-                    0,
-                    0,
-                    0,
-                    0,
-                    0,
+                    0.3,
+                    0.3,
+                    0.3,
+                    0.3,
+                    0.3,
+                    0.3,
+                    0.3,
+                    0.3,
                     0,
                     0,
                     0,
@@ -680,14 +680,14 @@
         "005": {
             "config": {
                 "inputsDelay": [
-                    0,
-                    0,
-                    0,
-                    0,
-                    0,
-                    0,
-                    0,
-                    0,
+                    0.3,
+                    0.3,
+                    0.3,
+                    0.3,
+                    0.3,
+                    0.3,
+                    0.3,
+                    0.3,
                     0,
                     0,
                     0,
@@ -699,15 +699,15 @@
                 ],
                 "outputsSafe": [
                     {
-                        "type": "plain",
+                        "type": "s-com",
                         "value": 0
                     },
                     {
-                        "type": "plain",
+                        "type": "s-com",
                         "value": 0
                     },
                     {
-                        "type": "plain",
+                        "type": "s-com",
                         "value": 0
                     },
                     {
@@ -868,27 +868,27 @@
                 ],
                 "outputsSafe": [
                     {
-                        "type": "plain",
+                        "type": "s-com",
                         "value": 0
                     },
                     {
-                        "type": "plain",
+                        "type": "s-com",
                         "value": 0
                     },
                     {
-                        "type": "plain",
+                        "type": "s-com",
                         "value": 0
                     },
                     {
-                        "type": "plain",
+                        "type": "s-com",
                         "value": 0
                     },
                     {
-                        "type": "plain",
+                        "type": "s-com",
                         "value": 0
                     },
                     {
-                        "type": "plain",
+                        "type": "s-com",
                         "value": 0
                     },
                     {
@@ -1018,12 +1018,12 @@
         "007": {
             "config": {
                 "inputsDelay": [
-                    0,
-                    0,
-                    0,
-                    0,
-                    0,
-                    0,
+                    0.3,
+                    0.3,
+                    0.3,
+                    0.3,
+                    0.2,
+                    0.3,
                     0,
                     0,
                     0,
@@ -1037,27 +1037,27 @@
                 ],
                 "outputsSafe": [
                     {
-                        "type": "plain",
+                        "type": "s-com",
                         "value": 0
                     },
                     {
-                        "type": "plain",
+                        "type": "s-com",
                         "value": 0
                     },
                     {
-                        "type": "plain",
+                        "type": "s-com",
                         "value": 0
                     },
                     {
-                        "type": "plain",
+                        "type": "s-com",
                         "value": 0
                     },
                     {
-                        "type": "plain",
+                        "type": "s-com",
                         "value": 0
                     },
                     {
-                        "type": "plain",
+                        "type": "s-com",
                         "value": 0
                     },
                     {
