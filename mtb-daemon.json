@@ -136,6 +136,14 @@
                     }
                 ],
                 "servoEnabledMask": 63,
+                "servoInputMap": [
+                    1,
+                    3,
+                    5,
+                    7,
+                    9,
+                    11
+                ],
                 "servoPosition": [
                     99,
                     33,
@@ -297,6 +305,14 @@
                     }
                 ],
                 "servoEnabledMask": 15,
+                "servoInputMap": [
+                    1,
+                    3,
+                    5,
+                    7,
+                    9,
+                    11
+                ],
                 "servoPosition": [
                     85,
                     152,
@@ -458,6 +474,14 @@
                     }
                 ],
                 "servoEnabledMask": 15,
+                "servoInputMap": [
+                    1,
+                    3,
+                    5,
+                    7,
+                    9,
+                    11
+                ],
                 "servoPosition": [
                     136,
                     190,
@@ -619,6 +643,14 @@
                     }
                 ],
                 "servoEnabledMask": 7,
+                "servoInputMap": [
+                    1,
+                    3,
+                    5,
+                    7,
+                    9,
+                    11
+                ],
                 "servoPosition": [
                     92,
                     170,
@@ -780,6 +812,14 @@
                     }
                 ],
                 "servoEnabledMask": 0,
+                "servoInputMap": [
+                    1,
+                    3,
+                    5,
+                    7,
+                    9,
+                    11
+                ],
                 "servoPosition": [
                     0,
                     0,
@@ -941,6 +981,14 @@
                     }
                 ],
                 "servoEnabledMask": 0,
+                "servoInputMap": [
+                    1,
+                    3,
+                    5,
+                    7,
+                    9,
+                    11
+                ],
                 "servoPosition": [
                     0,
                     0,
@@ -1102,6 +1150,14 @@
                     }
                 ],
                 "servoEnabledMask": 0,
+                "servoInputMap": [
+                    1,
+                    3,
+                    5,
+                    7,
+                    9,
+                    11
+                ],
                 "servoPosition": [
                     0,
                     0,
@@ -1126,167 +1182,6 @@
                 ]
             },
             "name": "Module 7",
-            "type": 80
-        },
-        "017": {
-            "config": {
-                "inputsDelay": [
-                    0,
-                    0,
-                    0,
-                    0,
-                    0,
-                    0,
-                    0,
-                    0,
-                    0,
-                    0,
-                    0,
-                    0,
-                    0,
-                    0,
-                    0,
-                    0
-                ],
-                "outputsSafe": [
-                    {
-                        "type": "plain",
-                        "value": 0
-                    },
-                    {
-                        "type": "plain",
-                        "value": 0
-                    },
-                    {
-                        "type": "plain",
-                        "value": 0
-                    },
-                    {
-                        "type": "plain",
-                        "value": 0
-                    },
-                    {
-                        "type": "plain",
-                        "value": 0
-                    },
-                    {
-                        "type": "plain",
-                        "value": 0
-                    },
-                    {
-                        "type": "plain",
-                        "value": 0
-                    },
-                    {
-                        "type": "plain",
-                        "value": 0
-                    },
-                    {
-                        "type": "plain",
-                        "value": 0
-                    },
-                    {
-                        "type": "plain",
-                        "value": 0
-                    },
-                    {
-                        "type": "plain",
-                        "value": 0
-                    },
-                    {
-                        "type": "plain",
-                        "value": 0
-                    },
-                    {
-                        "type": "plain",
-                        "value": 0
-                    },
-                    {
-                        "type": "plain",
-                        "value": 0
-                    },
-                    {
-                        "type": "plain",
-                        "value": 0
-                    },
-                    {
-                        "type": "plain",
-                        "value": 0
-                    },
-                    {
-                        "type": "plain",
-                        "value": 0
-                    },
-                    {
-                        "type": "plain",
-                        "value": 0
-                    },
-                    {
-                        "type": "plain",
-                        "value": 0
-                    },
-                    {
-                        "type": "plain",
-                        "value": 0
-                    },
-                    {
-                        "type": "plain",
-                        "value": 0
-                    },
-                    {
-                        "type": "plain",
-                        "value": 0
-                    },
-                    {
-                        "type": "plain",
-                        "value": 0
-                    },
-                    {
-                        "type": "plain",
-                        "value": 0
-                    },
-                    {
-                        "type": "plain",
-                        "value": 0
-                    },
-                    {
-                        "type": "plain",
-                        "value": 0
-                    },
-                    {
-                        "type": "plain",
-                        "value": 0
-                    },
-                    {
-                        "type": "plain",
-                        "value": 0
-                    }
-                ],
-                "servoEnabledMask": 15,
-                "servoPosition": [
-                    87,
-                    156,
-                    87,
-                    156,
-                    8,
-                    156,
-                    87,
-                    150,
-                    0,
-                    0,
-                    0,
-                    0
-                ],
-                "servoSpeed": [
-                    20,
-                    201,
-                    20,
-                    20,
-                    1,
-                    1
-                ]
-            },
-            "name": "Module 17",
             "type": 80
         }
     },
